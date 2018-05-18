@@ -75,7 +75,7 @@ This is called **accessing by index**, which provides us a way to get a specific
 
 In addition to accessing by index, Ruby arrays have a battery of methods that make it easy to do common operations such as accessing elements, i.e.: `first` (which returns the first element/element at index 0) and `last` (which returns the last element).
 
-**Query/softball the group in preparation for the mini lab:** in our example, what would `first` and `last` look like if we were to access them by index? (`student_names[0]` && `student_names[2]`)
+**Query:** in our example, what would `first` and `last` look like if we were to access them by index? 
 
 **SIMPLE LAB/CODEALONG ABOUT ACCESSING DATA IN ARRAY USE FIRST/LAST AND ACCESS BY INDEX**
 
