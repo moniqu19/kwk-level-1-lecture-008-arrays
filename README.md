@@ -62,6 +62,8 @@ puts student_names
 # > => nil # if you are wondering why we see the nil, its because that's the return value of the method `puts` itself. IRB prints return values to the terminal by default.
 ```
 
+**CFU:** We just talked about what an array is. In your journal, take one minute to summarize what types of data an array is useful for. Write down 2-3 real life examples of when you might use an array (ex// a shopping list). Turn and share with your partner. Be ready to share with the whole group!
+
 Excellent! We are off to a running start with arrays. What if we wanted to only access a single element of an array, though? For example, let's say we only wanted to print the first student in the array. Well, arrays have the ability to do just that:
 
 #### Accessing Elements in an Array
